@@ -1,10 +1,27 @@
-The Sql script contains all you need to run in order to get started.
-Include/config.php has the database configiration , you need to change with your own configuration for connecting to your database
+The Sql script contains all you need  to get started.
+Include/config.php has the database configuration need to be raplace with your own configuration for connecting to your database
 define('DBHOST', 'Your Hosting');
 define('DBUSER', 'Your Db user');
 define('DBPASS', 'Your Db Pass');
 define('DBNAME', 'blog');
 
+
+
+Exercise-02  om blog
+
+Blog
+
+http://localhost:8888/trollweb-backend-developer/
+
+
+
+Blog-Admin
+
+http://localhost:8888/trollweb-backend-developer/admin/
+
+demo-user : demo;
+
+demo-pass: demo;
 Blog system
 
 Make a simple blog system with vanilla PHP.
