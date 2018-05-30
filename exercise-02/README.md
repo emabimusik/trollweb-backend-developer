@@ -1,3 +1,6 @@
+The Sql script contains all you need to run in order to get started.
+
+
 Blog system
 
 Make a simple blog system with vanilla PHP.
