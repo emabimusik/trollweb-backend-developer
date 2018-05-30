@@ -1,1 +1,0 @@
-# Trollweb Backend Developer Exercises

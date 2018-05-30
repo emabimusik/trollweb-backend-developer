@@ -1,22 +1,19 @@
-# Exercise 02
-
-## Blog system
+Blog system
 
 Make a simple blog system with vanilla PHP.
+Pages
 
-### Pages
+    /blog - a list of all blog posts.
+    /blog/{id} - a single blog post page.
+    /admin - a backend to edit/delete/create posts.
 
-* /blog - a list of all blog posts.
-* /blog/{id} - a single blog post page.
-* /admin - a backend to edit/delete/create posts.
+Requirements
 
-### Requirements
+    The backend should be password-protected.
+    Don't use any existing PHP frameworks or packages.
+    Spend little (or no time at all) on the design and CSS.
+    Use a CSS framework if you have to make it pretty.
 
-* The backend should be password-protected.
-* Don't use any existing PHP frameworks or packages.
-* Spend little (or no time at all) on the design and CSS.
-* Use a CSS framework if you have to make it pretty.
+Extra credit
 
-### Extra credit
-
-* Create the system with TDD.
+    Create the system with TDD.

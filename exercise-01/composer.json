@@ -1,0 +1,14 @@
+{
+
+  "scripts": {
+          "post-package-install": [
+              "vendor/twbs::postPackageInstall",
+              "mkdir ./assets",
+              "ln -s ../vendor/twbs/bootstrap/dist/js  ./assets/js",
+              "ln -s ../vendor/twbs/bootstrap/dist/css  ./assets/css"
+          ]
+      },
+  "require": {
+    "twbs/bootstrap": "^4.1"
+  }
+}
