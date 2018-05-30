@@ -1,5 +1,5 @@
 The Sql script contains all you need to run in order to get started.
-
+Include/config.php has the database configiration , you need to change with your own configuration for connecting to your database
 
 Blog system
 
